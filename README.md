@@ -12,7 +12,9 @@ xUtils IOC注解功能，xUtils数据库操作
 1、在自己的AS上新建一个工程文件<br>
 2、把下载的项目源码中的src文件夹复制到新建的工程文件中，即替换src<br>
 3、修改新建工程文件的build.gradle，主要是修改工程包名，以及添加依赖（参照源码中的build.gradle，看需要添加什么依赖），主要修改内容如下图所示<br>
-![]()
-4、这样就可以运行啦，边运行边看代码调试，更容易理解代码
-
+<br>
+![](https://github.com/coffyuan/xUtils_login/raw/master/image/change.png)<br>
+4、这样就可以运行啦，边运行边看代码调试，更容易理解代码<br>
 ### 一些运行截图 ###
+![](https://github.com/coffyuan/xUtils_login/raw/master/image/login1.png)<br>
+![](https://github.com/coffyuan/xUtils_login/raw/master/image/login1.png)
