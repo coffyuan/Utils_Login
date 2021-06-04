@@ -18,3 +18,5 @@ xUtils IOC注解功能，xUtils数据库操作
 ### 一些运行截图 ###
 ![](https://github.com/coffyuan/xUtils_login/raw/master/image/login1.png)<br>
 ![](https://github.com/coffyuan/xUtils_login/raw/master/image/login1.png)
+
+![image](https://user-images.githubusercontent.com/29980429/120797508-b6dddd80-c56e-11eb-9493-a7f4234cbfdc.png)
