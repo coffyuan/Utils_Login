@@ -20,3 +20,6 @@ xUtils IOC注解功能，xUtils数据库操作
 ![](https://github.com/coffyuan/xUtils_login/raw/master/image/login1.png)
 
 ![image](https://user-images.githubusercontent.com/29980429/120797508-b6dddd80-c56e-11eb-9493-a7f4234cbfdc.png)
+![mongoDB](https://user-images.githubusercontent.com/29980429/120797867-26ec6380-c56f-11eb-95b4-0a41676091ec.png)
+![mySql](https://user-images.githubusercontent.com/29980429/120797873-294ebd80-c56f-11eb-8517-bb57d9e4112b.png)
+![手机](https://user-images.githubusercontent.com/29980429/120797879-2b188100-c56f-11eb-83aa-abddf5d59ed9.png)
